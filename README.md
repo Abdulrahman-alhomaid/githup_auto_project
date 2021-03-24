@@ -1,5 +1,6 @@
 "# githup_auto_project" 
 gitAuto is a githup automation project creator for anguler ot fullter projetc that will help set-up repo
+all you need to setup is to add it to $PATH
     
     --help , -h for help
     --name , -n  for file and repo name 'required' 
